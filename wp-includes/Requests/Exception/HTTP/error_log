@@ -1,0 +1,4 @@
+[10-Apr-2018 03:59:16 America/Chicago] PHP Fatal error:  Class 'Requests_Exception_HTTP' not found in /home/angelescityguide/public_html/wp-includes/Requests/Exception/HTTP/502.php on line 13
+[26-Apr-2018 11:54:51 America/Chicago] PHP Fatal error:  Class 'Requests_Exception_HTTP' not found in /home/angelescityguide/public_html/wp-includes/Requests/Exception/HTTP/502.php on line 13
+[02-May-2018 07:00:51 America/Chicago] PHP Fatal error:  Class 'Requests_Exception_HTTP' not found in /home/angelescityguide/public_html/wp-includes/Requests/Exception/HTTP/502.php on line 13
+[02-May-2018 07:00:53 America/Chicago] PHP Fatal error:  Class 'Requests_Exception_HTTP' not found in /home/angelescityguide/public_html/wp-includes/Requests/Exception/HTTP/502.php on line 13

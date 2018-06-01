@@ -1,0 +1,4 @@
+[10-Apr-2018 03:58:17 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/angelescityguide/public_html/wp-includes/registration.php on line 7
+[26-Apr-2018 11:55:48 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/angelescityguide/public_html/wp-includes/registration.php on line 7
+[01-May-2018 14:21:17 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/angelescityguide/public_html/wp-includes/registration.php on line 7
+[01-May-2018 14:21:18 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/angelescityguide/public_html/wp-includes/registration.php on line 7

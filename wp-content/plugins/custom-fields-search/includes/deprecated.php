@@ -1,0 +1,4 @@
+<?php
+/**
+* Includes deprecated functions
+*/

@@ -1,0 +1,8 @@
+/* Custom Fields Search icon */
+#toplevel_page_custom-fields-search .wp-menu-image {
+	font-family: 'bwsicons' !important;
+}
+#toplevel_page_custom-fields-search .wp-menu-image:before {
+	content: "\e907";
+	font-family: 'bwsicons' !important;
+}

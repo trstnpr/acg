@@ -1,0 +1,4 @@
+[28-Mar-2018 00:36:13 America/Chicago] PHP Fatal error:  Call to undefined function get_template_part() in /home/angelescityguide/public_html/wp-content/themes/acg/index.php on line 1
+[02-Apr-2018 03:23:42 America/Chicago] PHP Fatal error:  Call to undefined function get_template_part() in /home/angelescityguide/public_html/wp-content/themes/acg/index.php on line 1
+[03-Apr-2018 03:30:39 America/Chicago] PHP Fatal error:  Call to undefined function get_template_part() in /home/angelescityguide/public_html/wp-content/themes/acg/index.php on line 1
+[03-Apr-2018 03:30:41 America/Chicago] PHP Fatal error:  Call to undefined function get_template_part() in /home/angelescityguide/public_html/wp-content/themes/acg/index.php on line 1

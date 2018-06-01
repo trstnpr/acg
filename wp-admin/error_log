@@ -1,0 +1,20 @@
+[03-Apr-2018 06:57:15 UTC] WordPress database error Unknown column 'acg_' in 'field list' for query SELECT acg_
+[03-Apr-2018 06:58:42 UTC] WordPress database error Unknown column 'acg_' in 'field list' for query SELECT acg_
+[04-Apr-2018 06:12:59 UTC] PHP Fatal error:  Call to a member function get() on a non-object in /home/angelescityguide/public_html/wp-includes/cache.php on line 123
+[04-Apr-2018 06:30:36 UTC] PHP Fatal error:  Call to a member function get() on a non-object in /home/angelescityguide/public_html/wp-includes/cache.php on line 123
+[04-Apr-2018 09:07:00 UTC] PHP Fatal error:  Call to a member function get() on a non-object in /home/angelescityguide/public_html/wp-includes/cache.php on line 123
+[05-Apr-2018 05:49:56 UTC] PHP Fatal error:  Call to a member function execute_file_change_detection_scan() on a non-object in /home/angelescityguide/public_html/wp-content/plugins/all-in-one-wp-security-and-firewall/admin/wp-security-filescan-menu.php on line 109
+[27-Apr-2018 09:38:03 UTC] PHP Warning:  Illegal string offset 'time' in /home/angelescityguide/public_html/wp-content/plugins/akismet/class.akismet.php on line 1020
+[27-Apr-2018 09:38:03 UTC] PHP Warning:  Illegal string offset 'time' in /home/angelescityguide/public_html/wp-content/plugins/akismet/class.akismet-admin.php on line 540
+[27-Apr-2018 09:38:03 UTC] PHP Warning:  date() expects parameter 2 to be long, string given in /home/angelescityguide/public_html/wp-content/plugins/akismet/class.akismet-admin.php on line 540
+[27-Apr-2018 09:38:03 UTC] PHP Warning:  Illegal string offset 'event' in /home/angelescityguide/public_html/wp-content/plugins/akismet/class.akismet-admin.php on line 554
+[27-Apr-2018 09:38:03 UTC] PHP Warning:  Illegal string offset 'event' in /home/angelescityguide/public_html/wp-content/plugins/akismet/class.akismet-admin.php on line 603
+[27-Apr-2018 09:38:03 UTC] PHP Warning:  Illegal string offset 'event' in /home/angelescityguide/public_html/wp-content/plugins/akismet/class.akismet-admin.php on line 609
+[27-Apr-2018 09:38:03 UTC] PHP Warning:  Illegal string offset 'time' in /home/angelescityguide/public_html/wp-content/plugins/akismet/class.akismet-admin.php on line 621
+[27-Apr-2018 09:41:30 UTC] PHP Warning:  Illegal string offset 'time' in /home/angelescityguide/public_html/wp-content/plugins/akismet/class.akismet.php on line 1020
+[27-Apr-2018 09:41:30 UTC] PHP Warning:  Illegal string offset 'time' in /home/angelescityguide/public_html/wp-content/plugins/akismet/class.akismet-admin.php on line 540
+[27-Apr-2018 09:41:30 UTC] PHP Warning:  date() expects parameter 2 to be long, string given in /home/angelescityguide/public_html/wp-content/plugins/akismet/class.akismet-admin.php on line 540
+[27-Apr-2018 09:41:30 UTC] PHP Warning:  Illegal string offset 'event' in /home/angelescityguide/public_html/wp-content/plugins/akismet/class.akismet-admin.php on line 554
+[27-Apr-2018 09:41:30 UTC] PHP Warning:  Illegal string offset 'event' in /home/angelescityguide/public_html/wp-content/plugins/akismet/class.akismet-admin.php on line 603
+[27-Apr-2018 09:41:30 UTC] PHP Warning:  Illegal string offset 'event' in /home/angelescityguide/public_html/wp-content/plugins/akismet/class.akismet-admin.php on line 609
+[27-Apr-2018 09:41:30 UTC] PHP Warning:  Illegal string offset 'time' in /home/angelescityguide/public_html/wp-content/plugins/akismet/class.akismet-admin.php on line 621
